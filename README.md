@@ -17,4 +17,4 @@ Per la creació d'aquesta web, s'han utilitzat les següents tecnologies i eines
 
 ## Autor
 
-👤 [joel7911]
+👤 joel7911
